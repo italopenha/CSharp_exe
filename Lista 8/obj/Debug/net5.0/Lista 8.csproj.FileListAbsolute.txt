@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Documents\Generation\C#\Lista 8\obj\Debug\net5.0\Lista 8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\Generation\C#\Lista 8\obj\Debug\net5.0\Lista 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\Generation\C#\Lista 8\obj\Debug\net5.0\Lista 8.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\Generation\C#\Lista 8\obj\Debug\net5.0\Lista 8.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\Generation\C#\Lista 8\obj\Debug\net5.0\Lista 8.csproj.CoreCompileInputs.cache
