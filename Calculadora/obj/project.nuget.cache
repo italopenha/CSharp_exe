@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V89BV2IpOxNbzOx3CzHPaA7lHYuxco2K+aGf6e4YBhLw0z4JzGZvQUDkZNLW9T7H4REIWFArJ0HeLCD/bFWj7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\italo\\Documents\\Generation\\Projetos\\CSharp_exe\\Lista 7\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
